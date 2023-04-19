@@ -1,2 +1,2 @@
 # Front-End-Development-Libraries
-Exercícios, desafios e projetos de Front-End na realizados na Free Code Camp. 
+Exercícios, desafios e projetos realizados no curso de "Bibliotecas de desenvolvimento em front-end" da plataforma Free Code Camp.
